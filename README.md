@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Xenuss
 - 👀 I’m interested in Tech, TV-Series, Food.
-- 🌱 I’m currently learning PHP, JAVA, HTML, CSS.
+- 🌱 I’m currently learning PHP, JAVA (+ ANDROID STUDIO), HTML, CSS.
 - 📫 How to reach me "updating"
 
 <!---
